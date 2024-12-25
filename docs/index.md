@@ -27,6 +27,12 @@ GuidedWave is a package used to simulate the guided wave propagation in composit
 - [list](https://shiny-xylophone-px7pv4q99xrf7xpw.github.dev/)
 
 
+- another bullet 
+    - 1st
+    - 2rd
+- [list](https://shiny-xylophone-px7pv4q99xrf7xpw.github.dev/)
+
+
 ![alt text](image.png)
 
 
