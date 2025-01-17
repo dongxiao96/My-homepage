@@ -3,9 +3,8 @@
 This is the home page of Dong Xiao, used to present his research during his PhD studies. The experimental data and codes of his publications are provided here for the readers' reference.
 
 
-## Class
-
-* `composites` - define a composite structure and calculate this material properties
+## Publications
+* `[1]` - Xiao, D.; Rodrigues, F.D.S.; Sharif-Khodaei, Z; Aliabadi, M.H; A general probabilistic framework for impact localisation based on flexural wave propagation, Mechanical Systems and Signal Processing, 226 (2025), p.112320.
 * `utils` - utils to solve mathmatical problem, for example 
 * `plate` - Create a new project.
 * `materials` - Create a new project.
