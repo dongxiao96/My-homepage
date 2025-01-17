@@ -1,6 +1,7 @@
-# Welcome to GuidedWave 
+# Welcome to Dong Xiao's Homepage
 
-GuidedWave is a package used to simulate the guided wave propagation in composite structures. For full documentation visit [GuidedWave](https://www.mkdocs.org).
+This is the home page of Dong Xiao, used to present his research during his PhD studies. The experimental data and codes of his publications are provided here for the readers' reference.
+
 
 ## Class
 
