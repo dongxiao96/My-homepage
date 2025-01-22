@@ -1,0 +1,24 @@
+:root {
+    --md-primary-fg-color:        #0000cd;
+}
+
+
+ul.publications {
+    list-style: none; /* Removes default numbering */
+    padding-left: 1em; /* Adds left padding for the list */
+    text-indent: -1em; /* Outdents the first line */
+}
+
+ul.publications li {
+    margin-bottom: 0.5em; /* Adds spacing between entries */
+}
+
+/* Ensure hyperlinks inside publications are styled correctly */
+ul.publications a {
+    color: blue; /* Default link color */
+    text-decoration: underline; /* Underline links for visibility */
+}
+
+ul.publications a:hover {
+    color: darkblue; /* Hover effect for better user experience */
+}
